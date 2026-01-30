@@ -1,0 +1,4 @@
+Stock  Quantity  Value{name}  {quantity}  {value}
+{name}  {quantity}  {value}
+{name}  {quantity}  {value}
+Total Investment = {total_investment}
