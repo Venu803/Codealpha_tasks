@@ -1,3 +1,4 @@
+#Task 2- Stock Portfolio Tracer
 prices = {
     "AAPL": 180,
     "TSLA": 250,
@@ -28,3 +29,4 @@ with open("portfolio.txt", "w") as file:
     file.write("Total Investment = {total_investment}")
 
 print("Data saved to portfolio.txt")
+
